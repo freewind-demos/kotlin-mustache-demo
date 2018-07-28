@@ -1,4 +1,7 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Mustache Demo
+====================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+Render a simple mustache in Kotlin, the library used is a Java library [mustache.java](https://github.com/spullara/mustache.java),
+but it works perfectly with Kotlin's data classes.
+
+Run `Hello.kt` in your IDE.
